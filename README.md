@@ -1,3 +1,3 @@
 # Hey!
 
-My name is Maciek
+My name is Maciek & I'm a bioinformatician.
